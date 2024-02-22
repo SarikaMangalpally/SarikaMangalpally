@@ -1,4 +1,4 @@
-![image](https://github.com/SarikaMangalpally/SarikaMangalpally/assets/39065053/253f6385-b178-4dde-bab8-e3dc19e4379c)<h2 align="left">Hi 👋! My name is Sarika Mangalpally and I'm a Software Developer.</h2>
+<h2 align="left">Hi 👋! My name is Sarika Mangalpally and I'm a Software Developer.</h2>
 
 ###
 
