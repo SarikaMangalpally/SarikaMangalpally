@@ -1,6 +1,13 @@
 <h2 align="left">Hi 👋! My name is Sarika Mangalpally and I'm a Software Developer.</h2>
+<div align="center">
+  <img height="100" src="https://camo.githubusercontent.com/624901b30d07f0d210800a1738e6b54b5a73c631faea4293c6c02a702d75220b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f73656c66706f7274726169742e676966"  />
+</div>
 
-<p align="left">Pursuing my Master's degree in Computer Science at University of Louisiana at Lafayette.<br>Actively looking for a full time position.</p>
+###
+
+<br clear="both">
+
+<p align="left">I am pursuing my Master's in Computer Science at the University of Louisiana at Lafayette.<br><br>I am actively looking for a full-time position.</p>
 
 ###
 
@@ -10,12 +17,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img align="right" height="100" src="https://camo.githubusercontent.com/624901b30d07f0d210800a1738e6b54b5a73c631faea4293c6c02a702d75220b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f73656c66706f7274726169742e676966"  />
 
 ###
 
