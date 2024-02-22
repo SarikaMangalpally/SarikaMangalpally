@@ -7,7 +7,7 @@
 
 <br clear="both">
 
-<p align="left">I am pursuing my Master's in Computer Science at the University of Louisiana at Lafayette.<br><br>I am actively looking for a full-time position.</p>
+<p align="left">I am pursuing my Master's in Computer Science at the University of Louisiana at Lafayette.<br>I am actively looking for a full-time position.</p>
 
 ###
 
@@ -100,3 +100,5 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/SarikaMangalpally/SarikaMangalpally/output/snake.svg" alt="Snake animation" />
