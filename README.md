@@ -58,7 +58,7 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=outlook&logo=outlook&label=&color=D14836&logoColor=#0078D4&labelColor=&style=for-the-badge" height="35" alt="Outlook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Outlook&logo=outlook&label=&color=D14836&logoColor=#0072c6&labelColor=&style=for-the-badge" height="35" alt="Outlook logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
