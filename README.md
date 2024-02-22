@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sarika Mangalpally and I'm a Software Developer.</h2>
+![image](https://github.com/SarikaMangalpally/SarikaMangalpally/assets/39065053/253f6385-b178-4dde-bab8-e3dc19e4379c)<h2 align="left">Hi 👋! My name is Sarika Mangalpally and I'm a Software Developer.</h2>
 
 ###
 
@@ -9,7 +9,8 @@
 
 ###
 
-<img align="right" height="150" width="150" src="https://imgflip.com/gif/8gn7u2"  />
+<img align="right" height="150" src="![8gn83r](https://github.com/SarikaMangalpally/SarikaMangalpally/assets/39065053/542e94d1-efcc-4e74-99c1-78d6cd0f24e2)
+"  />
 
 ###
 
