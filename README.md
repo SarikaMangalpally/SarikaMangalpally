@@ -9,8 +9,7 @@
 
 ###
 
-<img align="right" height="150" width="150" src="![8gn83r](https://github.com/SarikaMangalpally/SarikaMangalpally/assets/39065053/542e94d1-efcc-4e74-99c1-78d6cd0f24e2)
-"  />
+
 
 ###
 
@@ -65,8 +64,10 @@
 
 ###
 
+<img align="right" height="50" width="50" src="![8gn83r](https://github.com/SarikaMangalpally/SarikaMangalpally/assets/39065053/542e94d1-efcc-4e74-99c1-78d6cd0f24e2)
+"  />
 <br clear="both">
-
+ ###
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
